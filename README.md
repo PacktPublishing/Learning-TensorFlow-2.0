@@ -23,7 +23,7 @@ By the end of this course, you will be able to implement models effectively, eas
 <LI>Learn about Recurrent neural networks (RNN) and how they are improved in TF2.0
 </LI></UL></DIV>
 
-# Authors
+# Author Bio
 Mohan Kumar Silaparasetty is a seasoned Deep Learning and AI professional. He is a graduate from IIT Kharagpur with more than 25 years' industry experience in a variety of roles. After a successful corporate career spanning over 20 years, Mohan embarked on his entrepreneurial journey. He is the co-founder and CEO of Trendwise Analytics, providing consulting and training in AI and Deep Learning. He is also the organizer of the Bangalore Artificial intelligence Meetup group with close to 3,000 members.<br/>
 https://www.linkedin.com/in/mohan-kumar-silaparasetty-8487812/
 
